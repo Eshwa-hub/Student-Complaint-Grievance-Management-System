@@ -1,0 +1,12 @@
+
+# Protect database credentials
+config.php
+.env
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore Windows system files
+Thumbs.db
+.DS_Store
